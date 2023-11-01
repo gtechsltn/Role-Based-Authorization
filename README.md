@@ -1,6 +1,14 @@
 # Role-Based Authorization
++ https://frontegg.com/guides/asp-net-authorization
 + https://auth0.com/blog/role-based-authorization-for-aspnet-webapi/
 + https://coderethinked.com/role-based-authorization-in-asp-net-core/
+
+  + Simple Authorization in ASP.NET Core
+  + Role-Based Authorization in ASP.NET Core
+  + Claims-Based Authorization in ASP.NET Core
+  + Policy-Based Authorization in ASP.NET Core
+  + ASP.NET Authorization Management with Frontegg
+
 <pre>
 How to apply multiple roles
 To apply an OR between the roles to a single action we have to separate the roles by a comma
