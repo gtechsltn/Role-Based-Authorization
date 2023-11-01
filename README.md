@@ -1,4 +1,5 @@
 # Role-Based Authorization
++ https://learn.microsoft.com/en-us/aspnet/core/security/authorization/roles?view=aspnetcore-7.0
 + https://frontegg.com/guides/asp-net-authorization
 + https://auth0.com/blog/role-based-authorization-for-aspnet-webapi/
 + https://coderethinked.com/role-based-authorization-in-asp-net-core/
